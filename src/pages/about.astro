@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+import { TWITTER_HANDLE } from '../consts';
+---
+
+<Base title="About">
+  <article class="article">
+    <header>
+      <h1>About</h1>
+    </header>
+    <div class="prose">
+      <blockquote>
+        Hanlon's razor: "Never attribute to malice that which is adequately explained by
+        stupidity."
+      </blockquote>
+      <p>
+        A fine rule, right up until you read the postmortem, and then the internal emails, and then
+        the second set of internal emails. This blog operates under the inverse: some things that
+        look like incompetence are incompetence, and some things that look like incompetence had a
+        product manager, a quarterly target, and a legal review.
+      </p>
+      <p>
+        Expect writing about security, incentives, systems that fail in suspiciously profitable
+        ways, and the occasional grudging admission that sometimes it really was just a typo.
+      </p>
+      <p>
+        The short-form version of all this lives at
+        <a href={`https://twitter.com/${TWITTER_HANDLE}`}>@{TWITTER_HANDLE}</a>.
+      </p>
+    </div>
+  </article>
+</Base>
