@@ -8,7 +8,7 @@ We call this new format **"Synergized Solo Execution,"** and we believe it repre
 
 ## Why Watch One Person Work?
 
-Great question. Historically, tool changes were performed quietly, efficiently, and without an audience — a practice we now recognize as a **missed bonding opportunity**. Under the new model:
+Great question. Historically, tool changes were performed quietly, efficiently, and without an audience: a practice we now recognize as a **missed bonding opportunity**. Under the new model:
 
 - **10 engineers** will clear their schedules
 - **1 engineer** will do the actual work
@@ -39,12 +39,12 @@ This is what we mean when we say **"we're all in this together."** Specifically,
 
 ## The Hot Seat: A Bonus Segment
 
-We want to be clear that The Hot Seat is not about blame. It is about **learning as a team**, which is why the learning is directed entirely at one person while the other nine take notes on how not to be the one in the hot seat next time. Studies show that public, extended, real-time accountability sessions are remembered fondly by all participants, especially the one at the center of them.
+We want to be clear that The Hot Seat is not about blame. It is about **learning as a team**, which is why the learning is directed entirely at one person while the other nine take notes on how not to be the one in the hot seat next time. Studies show that public, extended, realtime accountability sessions are remembered fondly by all participants, especially the one at the center of them.
 
 ## In Closing
 
-We recognize that some team members may ask, "couldn't this have been a five-minute status update and a follow-up ticket?" To this we say: sure, but where's the *togetherness* in that?
+We recognize that some team members may ask, "couldn't this have been a five minute status update and a follow up ticket?" To this we say: sure, but where's the *togetherness* in that?
 
 We look forward to seeing everyone's face in a tiny grid box while one of you does all the work. Attendance is, of course, mandatory.
 
-*This has been a message from Leadership. Please add any follow-up questions to the meeting notes doc, which no one will read.*
+*This has been a message from Leadership. Please add any follow up questions to the meeting notes doc, which no one will read.*
