@@ -1,9 +1,9 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// Deployed as a GitHub Pages project site.
-// If you later add a custom domain, set `site` to it and remove `base`.
+// Deployed on Cloudflare Pages, served from the domain root (no base path).
+// `site` is used for canonical URLs and RSS links — update it when the
+// final domain is known (e.g. a custom domain instead of *.pages.dev).
 export default defineConfig({
-  site: 'https://captainerr.github.io',
-  base: '/InverseHanlon',
+  site: 'https://inversehanlon.pages.dev',
 });
