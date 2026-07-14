@@ -33,12 +33,12 @@ Set `draft: true` to keep a post out of the build.
 
 ## Deployment
 
-Hosted on **Cloudflare Pages** via its Git integration: every push to `main` builds and deploys automatically.
+Hosted on **Cloudflare Workers** (static assets) via Workers Builds: every push to `main` builds and deploys automatically. `wrangler.jsonc` tells Cloudflare to serve the built `dist/` directory.
 
 Cloudflare build settings:
 
 - Build command: `npm run build`
-- Build output directory: `dist`
+- Deploy command: `npx wrangler deploy`
 
 When the final domain changes (e.g. a custom domain replaces `*.pages.dev`), update `site` in `astro.config.mjs` so canonical URLs and RSS links point to the right place.
 
