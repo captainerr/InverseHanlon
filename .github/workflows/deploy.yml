@@ -1,8 +1,9 @@
 name: Deploy to GitHub Pages
 
+# Hosting moved to Cloudflare Pages (builds on push via its Git integration).
+# This workflow is kept for manual runs only; delete it if GitHub Pages is
+# never used, or restore the push trigger to switch back.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:

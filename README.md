@@ -33,8 +33,13 @@ Set `draft: true` to keep a post out of the build.
 
 ## Deployment
 
-Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site and publishes it to GitHub Pages at `https://captainerr.github.io/InverseHanlon`.
+Hosted on **Cloudflare Pages** via its Git integration: every push to `main` builds and deploys automatically.
 
-One-time setup: in the repository settings, under **Pages**, set the source to **GitHub Actions**.
+Cloudflare build settings:
 
-If you later attach a custom domain, update `site` (and remove `base`) in `astro.config.mjs`.
+- Build command: `npm run build`
+- Build output directory: `dist`
+
+When the final domain changes (e.g. a custom domain replaces `*.pages.dev`), update `site` in `astro.config.mjs` so canonical URLs and RSS links point to the right place.
+
+`.github/workflows/deploy.yml` (GitHub Pages) is kept as a manual-only fallback and can be deleted.
