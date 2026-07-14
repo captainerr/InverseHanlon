@@ -1,5 +1,9 @@
-# Case Study: Turning One Failed Change Into Nine Hostages
-
+---
+title: "Case Study: Turning One Failed Change Into Nine Hostages"
+description: "Introducing Synergized Solo Execution: the bold new format where ten engineers clear their calendars so one of them can do the work."
+pubDate: 2026-07-14
+tags: ["process", "meetings", "satire"]
+---
 We're thrilled to share an exciting update to our security team's operational cadence.
 
 Starting this quarter, any time a single engineer needs to perform a routine tool change, the kind of task that historically took one person roughly twenty minutes, we will instead be blocking four hours on the calendars of the entire organization so that everyone can observe.
