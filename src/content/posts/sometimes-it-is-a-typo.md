@@ -4,6 +4,7 @@ description: "The inverse razor cuts both ways: a note on not becoming the thing
 pubDate: 2026-07-14
 tags: ["meta", "epistemics"]
 ---
+Hi frens,
 
 A blog with this name owes you one post in the other direction, so here it is.
 
@@ -18,3 +19,5 @@ So, a few honest constraints this blog will try to hold itself to:
 The goal was never "assume malice." The goal is to refuse the comfortable stopping point. Incompetence and malice aren't mutually exclusive anyway — the most durable bad systems are the ones where nobody has to *intend* the harm for the harm to keep landing, quarter after quarter, in the same profitable place.
 
 Assume the worst. Verify. Publish either way.
+
+-IH

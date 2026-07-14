@@ -4,12 +4,13 @@ description: "A field guide to the passive voice, the abundance of caution, and 
 pubDate: 2026-07-14
 tags: ["security", "incentives"]
 ---
+Hi frens, 
 
 Breach notifications are a genre, and like any genre they have conventions. Once you learn them, you can extract more truth from what a notification *avoids saying* than from what it says. A translation guide:
 
 ## "We recently became aware"
 
-The word doing the work here is *aware*. Not "it recently happened" — they became aware. The gap between those two dates is where the story lives, and its absence from the notification is rarely an oversight. If the intrusion window mattered less than the discovery date, they would have led with it.
+The word doing the work here is *aware*. Not "it recently happened": they became aware. The gap between those two dates is where the story lives, and its absence from the notification is rarely an oversight. If the intrusion window mattered less than the discovery date, they would have led with it.
 
 ## "A sophisticated threat actor"
 
@@ -26,3 +27,5 @@ The most honest-dishonest sentence in the genre. It is usually literally true, b
 ---
 
 The inverse-Hanlon point here is not that every notification is a lie. It's that breach notifications are written by counsel, reviewed by comms, and optimized to minimize liability — which means every ambiguity you notice was *chosen*. Read them the way you'd read a contract from someone who drafted it: the omissions are the content.
+
+-IH

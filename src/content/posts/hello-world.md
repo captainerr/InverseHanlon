@@ -4,6 +4,7 @@ description: "Why this blog exists, what the inverse of Hanlon's razor actually 
 pubDate: 2026-07-14
 tags: ["meta"]
 ---
+Hi frens,
 
 Hanlon's razor tells you to never attribute to malice that which is adequately explained by stupidity. It's good advice for your family group chat. It is much worse advice for reading a breach disclosure that took ninety days to publish, names no root cause, and uses the phrase "out of an abundance of caution" four times.
 
@@ -15,8 +16,10 @@ That doesn't mean everything is a conspiracy. Most outages really are a typo in 
 
 Here's what to expect from this site:
 
-- **Security writing** — vulnerabilities, exploitation, and the disclosure theater that surrounds both.
-- **Incentive autopsies** — failures that look like accidents until you find the roadmap item.
-- **Occasional retractions** — because sometimes it genuinely was a typo, and the razor cuts both ways.
+- **Security writing**: vulnerabilities, exploitation, and the disclosure theater that surrounds both.
+- **Incentive autopsies**: failures that look like accidents until you find the roadmap item.
+- **Occasional retractions**: because sometimes it genuinely was a typo, and the razor cuts both ways.
 
 Tweets are for the take. This is for the receipts.
+
+=IH

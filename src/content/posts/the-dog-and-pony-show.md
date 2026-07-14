@@ -4,6 +4,7 @@ description: "Corporate cybersecurity is a theatrical production for auditors, r
 pubDate: 2026-07-14
 tags: ["security", "compliance", "incentives"]
 ---
+Hi frens,
 
 Every quarter, somewhere in a windowless conference room, a CISO clicks through a slide deck with a padlock icon on it. The board nods. Nobody asks what the padlock is locking.
 
@@ -18,3 +19,5 @@ Security vendors know this too, and they've built an entire economy around selli
 None of this means nobody is trying. There are real engineers, real red teams, real people fighting for budget to fix the thing that's actually broken instead of the thing that's easy to photograph for the annual report. But they're fighting an org chart that rewards the show, not the substance. Org charts, unlike attackers, don't get bored and move on to easier targets.
 
 The hackers, meanwhile, are not impressed by your slide deck. They do not care about your SOC 2 letter. They're looking for the gap, and the gap is usually sitting exactly where the audience isn't looking because that's where the show never had to shine a light.
+
+-IH
