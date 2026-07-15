@@ -4,7 +4,7 @@ description: "Storytime generates an original, illustrated bedtime story in one 
 pubDate: 2026-07-15
 tags: ["projects", "ai", "cloudflare"]
 ---
-**storytime.inversehanlon.com**
+**[storytime.inversehanlon.com](https://storytime.inversehanlon.com)**
 
 My daughters’ bedtime routine always ends with "tell me a story," and I always end up improvising something mediocre about a tired fox. So I built a tiny webapp to do it for me.
 
