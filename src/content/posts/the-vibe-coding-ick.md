@@ -6,13 +6,13 @@ tags: ["ai", "vibe coding", "software", "culture"]
 ---
 Hi frens,
 
-There's a specific kind of whiplash happening in tech right now. Someone shows you an app. It's clean, it works, it solves a real problem you had. You're impressed. You ask the obvious follow-up — "wait, how'd you build this?" and the answer arrives: "Oh, I vibe coded it."
+There's a specific kind of whiplash happening in tech right now. Someone shows you an app. It's clean, it works, it solves a real problem you had. You're impressed. You ask the obvious follow-up: "wait, how'd you build this?" and the answer arrives: "Oh, I vibe coded it."
 
 Something shifts. Not always consciously, not always fairly, but it shifts. The app hasn't changed. Not a single line of it is different than it was thirty seconds ago. But your opinion of it just took a hit. That's the ick.
 
 ## Why the reveal changes the reaction
 
-The ick, in its original dating-app sense, isn't really about the thing itself — it's about what the thing reveals. Someone doesn't become less attractive because they mispronounced a word; they become less attractive because the mispronunciation punctured an illusion of effortless competence you'd built around them. Vibe coding produces the same puncture. The polish suggested mastery, and the reveal suggests the polish was borrowed.
+The ick, in its original dating-app sense, isn't really about the thing itself, it's about what the thing reveals. Someone doesn't become less attractive because they mispronounced a word; they become less attractive because the mispronunciation punctured an illusion of effortless competence you'd built around them. Vibe coding produces the same puncture. The polish suggested mastery, and the reveal suggests the polish was borrowed.
 
 A few things seem to be doing the work here:
 
