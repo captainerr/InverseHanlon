@@ -1,6 +1,6 @@
 ---
-title: "The 5 AM Guard: What Competing as a 40-Something Blue Belt Taught Me About Showing Up"
-description: "Training and competing in jiu jitsu around a full-time job and three kids — and why the hardest opponent isn't the guy across the mat, it's the calendar."
+title: "The 5 AM Guard: What Competing as a 40 Something Blue Belt Taught Me About Showing Up"
+description: "Training and competing in jiu jitsu around a full time job and three kids and why the hardest opponent isn't the guy across the mat, it's the calendar."
 pubDate: 2026-07-19
 tags: ["jiu-jitsu", "discipline", "personal"]
 ---
