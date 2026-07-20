@@ -50,7 +50,7 @@ It failed. The faith went into the kindly babushkas (grandmothers) who passed it
 
 ## State My Claim
 
-The standard cynical toolkit that correctly predicts institutional behavior everywhere else keeps making wrong predictions about this one institution. It should have simplified. It should have monetized. It should have folded to the emperors, or the sultans, or the commissars. It should have subtly dropped the fasting and shortened the services and updated the doctrine to match the audience. Every incentive pointed that way, for two thousand years and it didn't happen.
+The standard cynical toolkit that correctly predicts institutional behavior everywhere else keeps making wrong predictions about this one institution. It should have simplified. It should have monetized. It should have folded to the emperors, or the sultans, or the commissars. It should have subtly dropped the fasting and shortened the services and updated the doctrine to match the audience. Every incentive pointed that way for two thousand years and it didn't happen.
 
 When a model fails that consistently on one data point the interesting move is not to keep patching the model. The interesting move is to consider that the data point might be what it claims to be.
 
