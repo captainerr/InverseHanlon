@@ -1,6 +1,6 @@
 ---
 title: "Why Orthodox Christianity Is True, From Someone Who Doesn't Trust Institutions"
-description: "Running the Orthodox Church through the same incentive analysis I run every failing institution through — and watching it keep passing tests it should fail."
+description: "Running the Orthodox Church through the same incentive analysis I run every failing institution through and watching it keep passing tests it should fail."
 pubDate: 2026-07-20
 tags: ["faith", "orthodoxy", "epistemics"]
 ---
