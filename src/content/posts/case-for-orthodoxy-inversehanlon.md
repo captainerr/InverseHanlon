@@ -38,7 +38,7 @@ I'm allergic to testimony. Testimony is cheap, memory is unreliable, and communi
 
 What you have is this: fifteen-plus centuries of practitioners, across different countries, languages, and political regimes, doing a specified contemplative practice and reporting convergent results. I’m not talking about vague cozy feelings. I’m talking about specific, structured experiences, described consistently by Egyptian desert monks in the 4th century and Russian pilgrims in the 19th, most of whom never read each other. The tradition also built in its own error correction: it developed a detailed literature on prelest (spiritual delusion), precisely because it expected false positives and wanted to catch them. A fraud does not invest in fraud detection against itself.
 
-You can propose that this is all expectation and training effects. But notice what that explanation has to carry: independent replication across a millennium and a half, under regimes actively hostile to the practice, with an internal adversarial review process, producing people lives were transformed lives and documented by outsiders. At some point the deflationary explanation is doing more work than the straightforward one. The straightforward one is that the practice does what its practitioners say it does, and the discipline of skepticism includes being skeptical of your own reflex to explain the data away.
+You can propose that this is all expectation and training effects. But notice what that explanation has to carry: independent replication across a millennium and a half, under regimes actively hostile to the practice, with an internal adversarial review process, producing people whose lives were transformed and documented by outsiders. At some point the deflationary explanation is doing more work than the straightforward one. The straightforward one is that the practice does what its practitioners say it does, and the discipline of skepticism includes being skeptical of your own reflex to explain the data away.
 
 ## 5. It Survived the State
 
@@ -50,7 +50,7 @@ It failed. The faith went into the kindly babushkas (grandmothers) who passed it
 
 ## State My Claim
 
-The standard cynical toolkit that correctly predicts institutional behavior everywhere else keeps making wrong predictions about this one institution. It should have simplified. It should have monetized. It should have folded to the emperors, or the sultans, or the commissars. It should have subtly dropped the fasting and shortened the services and updated the doctrine to match the audience. Every incentive pointed that way, for two years and it didn't happen.
+The standard cynical toolkit that correctly predicts institutional behavior everywhere else keeps making wrong predictions about this one institution. It should have simplified. It should have monetized. It should have folded to the emperors, or the sultans, or the commissars. It should have subtly dropped the fasting and shortened the services and updated the doctrine to match the audience. Every incentive pointed that way, for two thousand years and it didn't happen.
 
 When a model fails that consistently on one data point the interesting move is not to keep patching the model. The interesting move is to consider that the data point might be what it claims to be.
 
