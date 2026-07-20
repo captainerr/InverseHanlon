@@ -54,7 +54,7 @@ The standard cynical toolkit that correctly predicts institutional behavior ever
 
 When a model fails that consistently on one data point the interesting move is not to keep patching the model. The interesting move is to consider that the data point might be what it claims to be.
 
-## Taking the Objections Seriously, Because That's the Whole Brand
+## Taking the Objections Seriously, Because That's My Brand
 
 Three objections deserve real answers, not a wave of the hand.
 
