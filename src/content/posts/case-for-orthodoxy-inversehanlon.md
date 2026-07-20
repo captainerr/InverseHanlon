@@ -1,5 +1,9 @@
-# Why Orthodox Christianity Is True, From Someone Who Doesn't Trust Institutions
-
+---
+title: "Why Orthodox Christianity Is True, From Someone Who Doesn't Trust Institutions"
+description: "Running the Orthodox Church through the same incentive analysis I run every failing institution through — and watching it keep passing tests it should fail."
+pubDate: 2026-07-20
+tags: ["faith", "orthodoxy", "epistemics"]
+---
 *I spend most of my time writing about how institutions lie to you. How the org chart explains the outage, how compliance theater substitutes for security, how "we take this seriously" means "we priced this in." So understand what it costs me to say the following: when I run the Orthodox Church through the same incentive analysis I run everything else through, it keeps passing tests that it should fail.*
 
 ---
