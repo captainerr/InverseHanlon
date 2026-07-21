@@ -35,7 +35,7 @@ For thirty years we were sold a story about what hacking is, and we bought every
 
 The story goes like this. Somewhere out there is a computer nerd, sitting hunched over a glowing screen in the dark. He's fluent in a language you will never understand and no one really speaks. He's at war with a wall made of digital fire. On one side the firewall is cold mathematical unbreakable code. On the other side is him. The whole thing is technical. Skill vs. defense. Whoever writes the better code wins.
 
-It is a great story. It sold movies and more importantly: it sold products.
+It is a neat story. It sells movies and more importantly: it sells *product*.
 
 Because if hacking is a code fight, then defense is a code fight too, and a code fight is a thing you can buy your way out of. So we bought. Firewalls, and then next-generation firewalls. Endpoint detection, threat feeds, a security operations center to read them. We stood up bug bounties and paid strangers to find the holes before the geniuses did. An entire industry grew up around the premise that the war was technical and the budget should be too. Today it runs [north of a quarter of a trillion dollars a year](https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165), an arms race measured in dollars and CVEs.
 
