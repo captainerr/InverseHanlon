@@ -48,7 +48,9 @@ I’m not talking about vague cozy feelings. I’m talking about specific, struc
 
 The tradition also built in its own error correction: it developed a detailed literature on prelest (spiritual delusion), precisely because it expected false positives and wanted to catch them. A fraud does not invest in fraud detection against itself.
 
-You can propose that this is all expectation and training effects. But notice what that explanation has to carry: independent replication across a millennium and a half, under regimes actively hostile to the practice, with an internal adversarial review process, producing people whose lives were transformed and documented by outsiders. At some point the deflationary explanation is doing more work than the straightforward one. The straightforward one is that the practice does what its practitioners say it does, and the discipline of skepticism includes being skeptical of your own reflex to explain the data away.
+You can propose that this is all expectation and training effects. But notice what that explanation has to carry: independent replication across a millennium and a half, under regimes actively hostile to the practice, with an internal adversarial review process, producing people whose lives were transformed and documented by outsiders. 
+
+At some point the deflationary explanation is doing more work than the straightforward one. The straightforward one is that the practice does what its practitioners say it does, and the discipline of skepticism includes being skeptical of your own reflex to explain the data away.
 
 ## 5. It Survived the State
 
@@ -69,10 +71,14 @@ Anything that survives a seventy-year deletion attempt by a superpower has demon
 ## State My Claim
 
 The standard cynical toolkit that correctly predicts institutional behavior everywhere else keeps making wrong predictions about this one institution. 
-+It should have simplified. 
-+It should have monetized. 
-+It should have folded to the emperors, or the sultans, or the commissars. 
-+It should have subtly dropped the fasting and shortened the services and updated the doctrine to match the audience. 
+
+* It should have simplified. 
+* 
+* It should have monetized.
+* 
+* It should have folded to the emperors, or the sultans, or the commissars.
+* 
+* It should have subtly dropped the fasting and shortened the services and updated the doctrine to match the audience. 
 
 Every incentive pointed that way for two thousand years and it didn't happen.
 
