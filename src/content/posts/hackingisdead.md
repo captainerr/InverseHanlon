@@ -75,7 +75,7 @@ It is why did anyone ever believed it left?
 
 For about two decades hacking grew up and moved out.
 
-The kids didn't disappear, they got buried in the noise. Starting in the early 2000s the center of gravity shifted east and up: east toward the Russian speaking underworld that turned cybercrime into a supply chain and up toward governments that had noticed a good intrusion was cheaper than a cruise missile.
+The kids didn't disappear, they just got lost in the noise. Starting in the early 2000s the center of gravity shifted east and up: east toward the Russian speaking underworld that turned cybercrime into a supply chain and up toward governments that had noticed a good intrusion was cheaper than a cruise missile.
 
 The carding forums and botnet operators of the 2000s were not bored teenagers chasing status. They were businesses with escrow, customer service, and reputation systems. The hackers moved stolen cards and network access credentials by the thousands. That model matured into the ransomware economy: crews running affiliate programs, splitting revenue, and posting their victims on leak sites like any other franchise publishing quarterly numbers. In May 2021, one of them, a Russia-based outfit called [DarkSide](https://www.energy.gov/ceser/colonial-pipeline-cyber-incident), froze the largest fuel pipeline on the American East Coast for five days and made the evening news, and the company paid a [$4.4 million ransom](https://insurica.com/blog/colonial-pipeline-ransomware-attack/) to get it running again. This was not a kid in a bedroom. This was organized crime with a help desk.
 
