@@ -39,21 +39,21 @@ It is a neat story. It sells movies and more importantly: it sells *product*.
 
 Because if hacking is a code fight, then defense is a code fight too, and a code fight is a thing you can buy your way out of. So we bought. Firewalls, and then next-generation firewalls. Endpoint detection, threat feeds, a security operations center to read them. We stood up bug bounties and paid strangers to find the holes before the geniuses did. An entire industry grew up around the premise that the war was technical and the budget should be too. Today it runs [north of a quarter of a trillion dollars a year](https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165), an arms race measured in dollars and CVEs.
 
-And it worked... more or less... We got very good at winning the fight we'd imagined.
+And it worked... more or less...Corporate America got very good at winning the fight we'd all imagined.
 
 But people robbing these companies were never fighting that fight.
 
-Here's what the story leaves out: the part where inverting Hanlon's razor gives us real vision. We didn't armor the wall and leave the door open because we were stupid. We did it because the wall is the part you can put on a purchase order.
+Here's what the story leaves out: the part where inverting Hanlon's razor gives us real vision. They didn't armor the wall and leave the door open because they're stupid. They did it because the wall is the part you can put on a purchase order.
 
-A firewall is a line item. "We retrained the helpdesk to distrust a friendly voice" is not. One of them shows up in a board deck as a number that went up. The other shows up as a rude call center and a vague hope that nothing happens this quarter. The fix for the real problem is cheap in dollars and ruinously expensive in the one currency nobody wants to spend: attention, repetition, and the awkward work of telling your own employees that being helpful is now a liability. Guess which one gets funded?
+A firewall is a line item. "We retrained the helpdesk to distrust a friendly voice" is not. One of them shows up in a board deck as a number that goes up. The other shows up as a rude call center and a vague hope that nothing happens this quarter. The fix for the real problem is cheap in dollars and ruinously expensive in the one currency nobody wants to spend: attention, repetition, and the awkward work of telling your own employees that being helpful is now a liability. Guess which one gets funded?
 
-So we built a fortress with a magnificent gate and a receptionist who will buzz in anyone who sounds like they work here. Then we acted surprised when every record breaking heist of the last decade walked straight in through the lobby.
+So corporations built a fortress with a magnificent gate and a receptionist who will buzz in anyone who sounds like they work here. Then they acted surprised when every record breaking heist of the last decade walked straight in through the lobby.
 
-They were not smarter than our wall. They knocked on the door, and we opened it.
+The attackers are not smarter than the wall. They knocked on the door, and someone let them in.
 
 ## But this is how it always was
 
-The story about the lone computer nerd has one problem. It never described the first hackers, and it doesn't describe the best ones. Strip away the movie lighting and hacking has always been the same move: understand a system better than the people who run it, then talk your way through the gap.
+The story about the lone computer nerd has one problem. It never described the first hackers either and it never described the best. Strip away the movie lighting and hacking has always been the same move: understand a system better than the people who run it and talk your way through the gap.
 
 Start at the beginning.
 
