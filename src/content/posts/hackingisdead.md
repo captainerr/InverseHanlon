@@ -47,7 +47,7 @@ Here's what the story leaves out: the part where inverting Hanlon's razor gives 
 
 A firewall is a line item. "We retrained the helpdesk to distrust a friendly voice" is not. One of them shows up in a board deck as a number that went up. The other shows up as a rude call center and a vague hope that nothing happens this quarter. The fix for the real problem is cheap in dollars and ruinously expensive in the one currency nobody wants to spend: attention, repetition, and the awkward work of telling your own employees that being helpful is now a liability. Guess which one gets funded?
 
-So we built a fortress with a magnificent gate and a receptionist who will buzz in anyone who sounds like they belong. Then we acted surprised when every record-breaking heist of the decade walked straight through the lobby.
+So we built a fortress with a magnificent gate and a receptionist who will buzz in anyone who sounds like they work here. Then we acted surprised when every record breaking heist of the last decade walked straight in through the lobby.
 
 They were not smarter than our wall. They knocked on the door, and we opened it.
 
