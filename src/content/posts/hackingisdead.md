@@ -39,7 +39,7 @@ It is a neat story. It sells movies and more importantly: it sells *product*.
 
 Because if hacking is a code fight, then defense is a code fight too, and a code fight is a thing you can buy your way out of. So we bought. Firewalls, and then next-generation firewalls. Endpoint detection, threat feeds, a security operations center to read them. We stood up bug bounties and paid strangers to find the holes before the geniuses did. An entire industry grew up around the premise that the war was technical and the budget should be too. Today it runs [north of a quarter of a trillion dollars a year](https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165), an arms race measured in dollars and CVEs.
 
-And it worked; more or less... We got very good at winning the fight we'd imagined.
+And it worked... more or less... We got very good at winning the fight we'd imagined.
 
 The people robbing us were never fighting that fight.
 
