@@ -27,7 +27,7 @@ There was no zero day vulnerability or cryptographic breakthrough. No elegant ex
 
 This is what people mean when they say hacking is dead: the most devastating breaches of the decade required almost no hacking. At least, not in the sense any of us were taught to imagine hacking.
 
-We are watching hacking die and, in the same breath, be reborn in the shape of its roots.
+We are watching hacking die and in the same breath be reborn in the shape of its roots.
 
 ## The myth we bought
 
