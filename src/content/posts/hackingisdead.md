@@ -8,7 +8,7 @@ draft: false
 
 # Hacking Is Dead, Long Live Hacking
 
-*Why The Com is hacking's return to type.*
+*Why The Com is hackings return to type.*
 
 ---
 
