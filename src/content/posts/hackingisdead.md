@@ -1,6 +1,6 @@
 ---
 title: "Hacking Is Dead, Long Live Hacking"
-description: "The most devastating breaches of the decade required almost no hacking. That's not decline, it's a return to hacking's original, social, adolescent form, and this time it came back with a body count."
+description: "The most devastating breaches of the decade required almost no hacking. It's a return to hacking's original social, adolescent form. And this time it came back with a body count."
 pubDate: 2026-07-21
 tags: ["cybersecurity", "hacking", "social-engineering", "the-com", "scattered-spider", "history"]
 draft: false
