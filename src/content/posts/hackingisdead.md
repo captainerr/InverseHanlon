@@ -23,7 +23,7 @@ In the spring of 2024 someone walked out of one of the largest telecom companies
 
 **Except it was nothing like that.**
 
-There was no zero day vulnerability or cryptographic breakthrough. No elegant exploit threading a flaw no one had noticed. The cloud platform that held the data was never broken into. [Stolen login credentials](https://www.cybersecuritydive.com/news/att-cyberattack-snowflake-environment/721235/) harvested by infostealer malware on someone else's machine, walked right through the front door because nobody had bothered to turn on two-factor authentication. In the parallel campaigns that defined the year, the method was even flatter: a phone call to a helpdesk; a confident voice on the other side. The code is read aloud by an employee doing exactly what they were trained to do.
+There was no zero day vulnerability or cryptographic breakthrough. No elegant exploit threading a flaw no one had noticed. The cloud platform that held the data was never broken into. [Stolen login credentials](https://www.cybersecuritydive.com/news/att-cyberattack-snowflake-environment/721235/) harvested by infostealer malware on someone else's machine walked right through the front door because nobody had bothered to turn on two-factor authentication. In the parallel campaigns that defined the year the method was even flatter: a phone call to a helpdesk and a confident voice on the other line. The code is read aloud by an employee doing exactly what they were trained to do.
 
 This is what people mean when they say hacking is dead: the most devastating breaches of the decade required almost no hacking. At least, not in the sense any of us were taught to imagine hacking.
 
