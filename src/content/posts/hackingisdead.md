@@ -41,7 +41,7 @@ Because if hacking is a code fight, then defense is a code fight too, and a code
 
 And it worked... more or less... We got very good at winning the fight we'd imagined.
 
-The people robbing us were never fighting that fight.
+But people robbing these companies were never fighting that fight.
 
 Here's what the story leaves out: the part where inverting Hanlon's razor gives us real vision. We didn't armor the wall and leave the door open because we were stupid. We did it because the wall is the part you can put on a purchase order.
 
