@@ -33,7 +33,7 @@ We are watching hacking die and in the same breath be reborn in the shape of its
 
 For thirty years we were sold a story about what hacking is, and we bought every word of it.
 
-The story goes like this. Somewhere out there is a computer nerd, almost always imagined as a man, sitting hunched over a glowing screen in the dark. He's fluent in a language you will never understand and no one really speaks. He's at war with a wall made of digital fire. On one side the firewall is cold, mathematical, nearly unbreakable code. On the other side is him. The whole thing is technical. Skill vs. defense. Whoever writes the better code wins.
+The story goes like this. Somewhere out there is a computer nerd, sitting hunched over a glowing screen in the dark. He's fluent in a language you will never understand and no one really speaks. He's at war with a wall made of digital fire. On one side the firewall is cold, mathematical, nearly unbreakable code. On the other side is him. The whole thing is technical. Skill vs. defense. Whoever writes the better code wins.
 
 It is a great story. It sold movies and more importantly: it sold products.
 
