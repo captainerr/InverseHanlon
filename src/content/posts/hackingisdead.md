@@ -1,6 +1,6 @@
 ---
 title: "Hacking Is Dead, Long Live Hacking"
-description: "The most devastating breaches of the decade required almost no hacking. It's a return to hacking's original social, adolescent form. And this time it came back with a body count."
+description: "The most devastating breaches of the decade required almost no hacking. It's a return to hacking's original social and adolescent form. And this time it came back with a body count."
 pubDate: 2026-07-21
 tags: ["cybersecurity", "hacking", "social-engineering", "the-com", "scattered-spider", "history"]
 draft: false
@@ -39,13 +39,13 @@ It is a great story. It sold movies and more importantly: it sold products.
 
 Because if hacking is a code fight, then defense is a code fight too, and a code fight is a thing you can buy your way out of. So we bought. Firewalls, and then next-generation firewalls. Endpoint detection, threat feeds, a security operations center to read them. We stood up bug bounties and paid strangers to find the holes before the geniuses did. An entire industry grew up around the premise that the war was technical and the budget should be too. Today it runs [north of a quarter of a trillion dollars a year](https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165), an arms race measured in dollars and CVEs.
 
-And it worked, more or less. We got very good at winning the fight we had imagined.
+And it worked; more or less... We got very good at winning the fight we'd imagined.
 
-The people robbing us were never in that fight.
+The people robbing us were never fighting that fight.
 
-Here is the part the story leaves out, the part where inverting Hanlon's razor gives us true vision. We did not armor the wall and leave the door open because we were stupid. We did it because the wall is the part you can put on a purchase order.
+Here's what the story leaves out: the part where inverting Hanlon's razor gives us real vision. We didn't armor the wall and leave the door open because we were stupid. We did it because the wall is the part you can put on a purchase order.
 
-A firewall is a line item. "We retrained the helpdesk to distrust a friendly voice" is not. One of them shows up in a board deck as a number that went up. The other shows up as a slightly ruder call center and a vague hope that nothing happens this quarter. The fix for the real problem is cheap in dollars and ruinously expensive in the one currency nobody wants to spend: senior attention, boring repetition, and the awkward work of telling your own employees that being helpful is now a liability. Guess which one gets funded.
+A firewall is a line item. "We retrained the helpdesk to distrust a friendly voice" is not. One of them shows up in a board deck as a number that went up. The other shows up as a rude call center and a vague hope that nothing happens this quarter. The fix for the real problem is cheap in dollars and ruinously expensive in the one currency nobody wants to spend: attention, repetition, and the awkward work of telling your own employees that being helpful is now a liability. Guess which one gets funded?
 
 So we built a fortress with a magnificent front gate and a receptionist who will buzz in anyone who sounds like they belong. Then we acted surprised when every record-breaking heist of the decade walked straight through the lobby.
 
