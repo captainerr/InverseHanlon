@@ -109,9 +109,9 @@ Hacking didn't die. It went home, had an energy drink, and came back to play som
 
 ## But it came back a little off
 
-Here is where the nostalgia curdles like milk left out in the sun.
+Here is where the nostalgia starts to curdle like milk left out in the sun.
 
-The old scene had a ceiling and the ceiling was the mercy. Draper stole phone calls. The 414s embarrassed a bank. MOD and LOD fought over switches that belonged to neither of them. Even Mitnick, the supervillain of his generation, never hurt anyone: his crimes were property crimes dressed up as a manhunt. The whole culture topped out at mischief, humiliation, and theft. You could lose your data, your dignity, or your afternoon. You could not lose your child.
+The old scene had a ceiling and the ceiling was the mercy. Draper stole phone calls. The 414s embarrassed a bank. MOD and LOD fought over switches that belonged to neither of them. Even Mitnick the shadowy supervillain of his generation never hurt anyone: his crimes were property crimes dressed up as a manhunt. The whole culture topped out at mischief, humiliation, and theft. You could lose your data, your dignity, or your afternoon. You could not lose your child.
 
 The Com kept everything about the old scene except the ceiling. The same youth, the same crew, the same addiction to status, and the same con. Then it took the one thing the old hackers never had: a willingness to reach out of the screen and into the physical world, and then they turned that into a product.
 
@@ -125,17 +125,17 @@ The same ecosystem that produced the kids who phoned a casino help desk also pro
 
 Here is the structural fact that matters, that you can't unsee once you've seen it. These branches aren't separate companies. The [Department of Justice itself describes 764 as one of a number of networks](https://www.aol.com/news/leaders-global-online-extortion-exploitation-190524399.html) operating within the broader Com, sharing servers, slang, recruiters, and in some cases the same people moving fluidly between spheres. A member can slide from stealing crypto, to swatting a rival, to something unspeakable, because the culture carrying him along that path is one continuous funnel. The thing being optimized at every stage is the same thing the 414s wanted in 1983: to be known, to be feared, to matter to the only audience that counts.
 
-That is why the nostalgia is a trap. The charm of the old scene, the bored computer nerd, the teenage crew, and the almost harmless game of status was never harmless. It was low stakes. We mistook a small blast radius for a benign one. Nothing about the psychology changed. What changed is what it can now reach: targets the old hackers would have called untouchable.
+That is why the nostalgia is a trap. The charm of the old scene, the bored computer nerd, the teenage crew, and the almost harmless game of status was never harmless. It was low stakes. We mistook a small blast radius for a benign one. Nothing about the psychology changed. What changed is what it can reach out and touch: targets the old hackers would have called untouchable.
 
 ## The wall and the door
 
-So where does that leave the quarter-trillion dollars?
+So where does that leave a half-trillion dollar industry?
 
-Aimed, mostly, at the wrong thing. We spent two decades and a fortune building defenses against the professional: the funded specialist, the state team, the exploit nobody had seen. Those defenses work. They are also guarding a wall that almost nobody bothers to climb anymore because the door is unlocked and the door is a person.
+Aimed mostly at the wrong thing. Corporate security teams spent two decades and a fortune building defenses against the professional: the funded specialist, the state team, the exploit nobody had seen. Those defenses work. They are also guarding a wall that almost nobody bothers to climb anymore because the door is unlocked and the door is a person.
 
 You can't patch a person. There's no signature update for a receptionist who wants to be helpful and no firewall that sits between an employee and their own good manners. The thing that keeps getting exploited is not a flaw in the code. It's a feature of the human being. The same feature the phone company's operators had in 1972 and the casino's help desk had in 2023: the instinct to trust a confident voice that sounds like it belongs.
 
-And here is the incentive trap we walked right into. Defending the wall is legible. It has vendors, dashboards, and a number you can show to the board members. But defending the door is not legible. It looks like paying senior people to sit through the same dull training every quarter, telling your friendliest employees that their friendliness is now a liability, and accepting that the fix will never appear as a line on a chart. So we keep funding the wall and keep losing at the door. We keep calling it a "sophisticated attack" because "they called and we told them" is too embarrassing to write in the incident report.
+And here is the incentive trap Corporate America walked right into. Defending the wall is legible. It has vendors, dashboards, and a number you can show to the board members. But defending the door is not legible. It looks like paying senior people to sit through dull training every quarter, telling your friendliest employees that their friendliness is now a liability, and accepting that the fix will never appear as a line on a chart. So we keep funding the wall and keep losing at the door. We keep calling it a "sophisticated attack" because "they called and we told them" is too embarrassing to write in the incident report.
 
 None of this is an accident. Assume incentive, not incompetence: we built exactly the defense that was easiest to buy and hardest to argue with. They built exactly the offense that walks right in. Both sides are behaving rationally and only one is winning.
 
