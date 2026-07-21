@@ -105,9 +105,9 @@ But strip all of it down and you land back on "The Mitnick"; the one move that h
 
 Which brings us back to where we started. That AT&T breach: a hundred million conversations carried out the front door for the price of a phone call was not a glitch in how hacking works. It was hacking working the way it worked in 1972, 1983, 1990, and 1995. The only change is the scale. No zero-day vulnerability exploit because none was ever needed. Just a sensitive young man who understands the system better than the people running it, who talked his way through the gap.
 
-Hacking did not die. It went home, put on the face it started with, and let itself in.
+Hacking didn't die. It went home, had an energy drink, and came back to play some more. 
 
-## But it came back wrong
+## But it came back a little off
 
 Here is where the nostalgia curdles like milk left out in the sun.
 
