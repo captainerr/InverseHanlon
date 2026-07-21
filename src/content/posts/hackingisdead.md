@@ -14,7 +14,7 @@ draft: false
 
 In the spring of 2024, someone walked out of one of the largest telecom companies in America carrying the call and text records of [nearly every customer it had](https://www.cybersecuritydive.com/news/att-cyberattack-snowflake-environment/721235/), around 110 million people. The metadata of a hundred million conversations: who called who, when, and for how long. They carried a map of the nation's private life detailed enough to reconstruct affairs, and other dirty secrets, from the shape of the traffic. When the extortion demand came, AT&T paid a [$370,000 ransom in Bitcoin](https://www.hackthebox.com/blog/snowflake-breach-attack-anatomy) for a promise to delete it. There is, of course, no way to verify anyone deleted anything.
 
-I know you are picturing something:
+I know what you're imagining:
 
 - A darkened room
 - A progress bar
