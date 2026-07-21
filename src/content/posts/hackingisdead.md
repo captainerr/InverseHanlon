@@ -14,14 +14,14 @@ draft: false
 
 In the spring of 2024 someone walked out of one of the largest telecom companies in America with phone call and sms records of [nearly every customer it had](https://www.cybersecuritydive.com/news/att-cyberattack-snowflake-environment/721235/), around 110 million people. The metadata of a hundred million conversations: who called who, when, and for how long. They carried a map of the nation's private life detailed enough to reconstruct affairs, and other dirty secrets, from the shape of the traffic. When the extortion demand came, AT&T paid a [$370,000 ransom in Bitcoin](https://www.hackthebox.com/blog/snowflake-breach-attack-anatomy) for a promise to delete it. There is, of course, no way to verify anyone deleted anything.
 
-* I know what you're imagining:
+**I know what you're imagining:**
 
 - A darkened room
 - A progress bar
 - A wall of green text yielding to a keyboard played like an instrument
 - A computer nerd against the firewall
 
-* Except it was nothing like that.
+**Except it was nothing like that.**
 
 There was no zero-day or cryptographic breakthrough. No elegant exploit threading a flaw no one had noticed. The cloud platform that held the data was never broken into. [Stolen login credentials](https://www.cybersecuritydive.com/news/att-cyberattack-snowflake-environment/721235/), harvested by infostealer malware on someone else's machine, walked right through the front door because nobody had bothered to turn on two-factor authentication. In the parallel campaigns that defined the year, the method was even flatter: a phone call to a helpdesk; a confident voice on the other side. The code is read aloud by an employee doing exactly what they were trained to do.
 
