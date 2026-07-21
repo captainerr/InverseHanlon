@@ -139,6 +139,6 @@ And here is the incentive trap Corporate America walked right into. Defending th
 
 None of this is an accident. Assume incentive, not incompetence: Corporations built exactly the defense that was easiest to buy and hardest to argue with. Attackers built exactly the offense that walks right in. Both sides are behaving rationally and only one is winning.
 
-Hacking is dead: the computer nerd at the keyboard, the wall of green text, the war of code. This was always mostly a story, and that story is over. What replaced it is older than the myth we are mourning: a kid with a phone, a plausible voice, and the oldest vulnerability in the system: you.
+Hacking is dead: the computer nerd at the keyboard, the wall of green text, the war of code. This was always mostly a story, and that story is over. What replaced it is older than the myth: a kid with a phone, a plausible voice, and the oldest vulnerability in the system: you.
 
 Long live hacking. The king that was slain was never on the throne. The real one just came of age.
