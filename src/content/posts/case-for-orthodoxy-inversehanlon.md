@@ -73,11 +73,11 @@ Anything that survives a seventy-year deletion attempt by a superpower has demon
 The standard cynical toolkit that correctly predicts institutional behavior everywhere else keeps making wrong predictions about this one institution. 
 
 * It should have simplified. 
-* 
+
 * It should have monetized.
-* 
+
 * It should have folded to the emperors, or the sultans, or the commissars.
-* 
+
 * It should have subtly dropped the fasting and shortened the services and updated the doctrine to match the audience. 
 
 Every incentive pointed that way for two thousand years and it didn't happen.
