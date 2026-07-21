@@ -88,7 +88,7 @@ When a model fails that consistently on one data point the interesting move is n
 
 Three objections deserve real answers, not a wave of the hand.
 
-**"Rome held the authority and the East walked away from it."**
+## 1. "Rome held the authority and the East walked away from it."
 
 Run the incentive analysis on the papal claim itself. Papal supremacy as Rome defines it today, is a doctrine whose primary beneficiary is the office asserting it. That should trip every alarm you own. When an institution's central truth claim is "this institution's chief executive has universal jurisdiction and under certain conditions: infallibility," you are looking at the most self serving doctrine ever ratified and it was ratified by the office it serves. 
 
@@ -96,7 +96,7 @@ The councils of the first millennium give Rome a primacy of honor, first among e
 
 The East didn't walk away from the ancient structure. It declined to sign the upgrade. If anyone changed the terms of the deal look at which party's authority grew from the change. It wasn't Constantinople's.
 
-**"The age of a tradition tells you nothing scripture doesn't."**
+## 2. "The age of a tradition tells you nothing scripture doesn't."
 
 This one dissolves on contact with a single question: where did you get the scripture? The Bible did not descend with a table of contents. The canon is a list, the list was compiled, and the compilers were the bishops of the undivided Church using the tradition's rule of faith to decide which books were in and which were out. Athanasius's festal letter: the council (Nicaea 325) that ratified the canon, the liturgical use that pre-dated both: that's the tradition doing the work. 
 
@@ -104,7 +104,7 @@ Sola scriptura saws off the branch and then asks the branch to hold it up. You c
 
 A method that generates unbounded fragmentation is not an authority mechanism. It's the absence of one, with a book on top.
 
-**"Survival is not truth, and other old traditions make similar claims."**
+## 3. "Survival is not truth, and other old traditions make similar claims."
 
 Correct, and I said so myself: durability alone proves durability. But my argument was never bare survival. It's the shape of the survival. Other long-lived traditions endured by adapting, and honestly, good for them; adaptation is what survival normally requires. 
 
