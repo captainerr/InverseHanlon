@@ -18,7 +18,7 @@ BIP-110 asks you to hold two ideas at once.
 
 Pick one. Urgency and modesty don’t travel together. When a proposal insists on both the move is to stop reading the manifesto and start reading the mechanism.
 
-## The benefit of Doubt
+## The Benefit of Doubt
 
 Let me give the steelman its due, because this is where most maximalists already live. Inscriptions turned a monetary ledger into an overpriced pastebin. OP_RETURN payloads and arbitrary data burden node operators who never signed up to host someone's JPEG. "Bitcoin is money not a hard drive" is not a slogan I need to be talked into.
 
