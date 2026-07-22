@@ -1,5 +1,5 @@
 ---
-title: "BIP-110: Threshold Is the Tell"
+title: "BIP-110: The Threshold Is the Tell"
 description: "BIP-110 needs 55% to change Bitcoin's consensus rules; SegWit and Taproot needed 95%. That gap is not a rounding error. It's a decision about how many people you're willing to strand."
 pubDate: 2026-07-21
 tags: ["bitcoin", "bip-110", "governance", "soft-fork", "uasf", "consensus", "incentives"]
