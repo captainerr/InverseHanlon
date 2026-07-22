@@ -8,7 +8,7 @@ draft: false
 
 # The Guy Who Doesn't Understand What a Flow Round Is
 
-Every gym has that one guy.
+Every gym has that one guy. 
 
 The timer beeps, he taps in with an easy smile, and you both settle in for a light round. You want to drill some transitions, flow through some positions, and sweat a little. Then the timer beeps and homeboy detonates off the mat like it's the black belt final at Worlds.
 
