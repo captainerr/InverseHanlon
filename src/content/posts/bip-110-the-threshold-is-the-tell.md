@@ -46,7 +46,7 @@ The people cheering this are, in many cases, the same people who spent the fork 
 
 Apparently that lesson had an asterisk: it only applies when the cause is impure. Dress the same maneuver in "sound money" and the chain-split hawks become chain-split doves overnight. The tell is not that they changed their minds on forks. The tell is that they never minded forks; they only cared about which fork.
 
-## What to actually watch
+## What to Watch
 
 Ignore the vibes and the 66KB protest images. Watch three things:
 
@@ -56,4 +56,4 @@ Ignore the vibes and the 66KB protest images. Watch three things:
  
 - What does "temporary" mean after month twelve? Temporary powers are the ones institutions least like to return.
 
-A soft fork's stated purpose lives in its announcement. But I unstated (real) purpose is in its activation threshold. When the two disagree, look at the threshold.
+A soft fork's stated purpose lives in its announcement. But the unstated (real) purpose is in its activation threshold. When the two disagree always look at the threshold.
