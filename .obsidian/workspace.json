@@ -186,6 +186,9 @@
   },
   "active": "9e70576e0761881a",
   "lastOpenFiles": [
+    "src/content/postSchema.mjs",
+    "scripts/lint-posts.mjs",
+    "scripts",
     "src/content/posts/friend-group-fallen-off-twitter-edition-v3.md",
     "src/content/posts/why-bitcoin-goes-up-eventually.md",
     "src/content/posts/flow-round-guy.md",
