@@ -1,8 +1,8 @@
 ---
 title: "Why Bitcoin Will Go Up (Eventually)"
 description: "A no-hype look at supply mechanics, institutional plumbing, and holder behavior. Written during a down year, which is exactly when the eventually thesis is worth stress-testing."
-pubDate: 2026-07-23
-tags: ["bitcoin", "crypto", "macro", "build-in-public"]
+pubDate: 2026-07-24
+tags: ["bitcoin", "bitcoin", "macro", "build-in-public"]
 draft: false
 ---
 
