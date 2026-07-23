@@ -46,7 +46,7 @@ A bit that took four people and one terrible night to build is now a standalone 
 
 There are people in the mentions who know about the new apartment, the breakup, the health scare. They have opinions. They use the nickname. You have never interacted with them and never will.
 
-## 10. You check on your boy by scrolling, not texting
+## 10. You check in on your boy by scrolling, not texting
 
 Instead of asking how he is, you open his profile, scroll two weeks back, form a rough conclusion, and close the app. You feel updated. Nothing was exchanged. Surveillance is not friendship, no matter how affectionate the motive.
 
